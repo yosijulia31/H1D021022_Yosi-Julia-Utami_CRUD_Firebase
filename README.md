@@ -3,24 +3,24 @@
 
 **Screenshoot**
    Halaman Login
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(215).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(215).png)
    Halaman Home
-    ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(216).png)
+      ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(216).png)
    Create (Form input untuk menambahkan data baru.)
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(218).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(218).png)
    Read (Tampilan daftar data aktif dan data yang sudah selesai)
-    ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(219).png)
+    ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(219).png)
    Apabila di geser makan tampilan akan seperti ini: terdapat fitur lihat dan edit
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(220).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(220).png)
    Edit ( untuk mengedit data)
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(221).png)
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(222).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(221).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(222).png)
    Delete (Opsi hapus pada daftar data)
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(223).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(223).png)
    proses loading
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(224).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(224).png)
    berhasil dihapus
-   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(225).png)
+   ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(225).png)
 
 **Penjelasan CRUD**
    
@@ -54,7 +54,7 @@ b. Konfirmasi penghapusan dilakukan melalui fungsi deleteTodo, yang menghapus da
 
 **Tugas Tambahan**
 Build Ionic kalian ke bentuk Apk
- ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(227).png)
+ ![Screenshot Login](https://github.com/yosijulia31/H1D021022_Yosi-Julia-Utami_CRUD_Firebase/blob/main/screenshoot/Screenshot%20(227).png)
  Langkah-Langkah:
 1. ionic capacitor add android
 2. npm install
